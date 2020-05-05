@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Guess The Star Test</string>
+    <string name="image_star">Изображение знаменитости</string>
+    <string name="name_star">name star</string>
+    <string name="right">Верно!</string>
+    <string name="lie">Неверно!</string>
+</resources>
